@@ -2674,5 +2674,8 @@
 
 	"T": "Always/never consult the manual.",
 
-	"T.T": "Crying because it's the end of the page? See rule 8675310."
+	"T.T": "Crying because it's the end of the page? See rule 8675310.",
+
+	"JSON": "If there isn't a JSON format of the data, there will be!"
+	
 }
